@@ -16,7 +16,7 @@ After cloning this repository, Run the following commands:
 
 ## Screenshot
 
-![Screenshot](test/ss.png)
+![Screenshot](images/screen.png)
 
 
 ## 🔗 Links
